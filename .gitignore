@@ -1,0 +1,7 @@
+.DS_Store
+*/.DS_Store
+*/.env 
+*/.venv
+*/node_modules
+python-keycloak-fastapi/schemas/__pycache__
+*/__pycache__
